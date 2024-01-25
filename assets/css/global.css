@@ -4,8 +4,7 @@
 }
 
 body {
-    background-image: url(assets/img/pokeball-1.png);
-    background-repeat: repeat-x;
+    background-color:rgb(238, 236, 236)
 }
 
 .content {
