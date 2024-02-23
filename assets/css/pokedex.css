@@ -26,6 +26,11 @@
     cursor: pointer;
 }
 
+.pokemon:active {
+    position:relative;
+    top:1px;
+}
+
 .pokemon .number {
     color: #000;
     text-align: right;

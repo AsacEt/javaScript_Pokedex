@@ -3,7 +3,7 @@ const loadMoreButton = document.getElementById('loadMoreButton')
 
 
 const maxRecords = 151
-const limit = 16
+const limit = 12
 let offset = 0
 
 
